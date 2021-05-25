@@ -32,3 +32,5 @@ Tuy nhiên, nó vẫn có một số nhược điểm::worried:
 * Khi ảnh đầu vào bị đặt một góc quá nghiên thì một vài kí tự sẽ bị nhầm dòng. Có một cách giải quyết là dùng một mạng transformer xoay ảnh nghiêng về ảnh thẳng.
 * Đôi khi bị nhận dạng nhầm giữa 8 và B, 0 và D
 *  Hoạt động kém khi bức ảnh quá mờ
+tai lieu tham khao
+https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/ 
